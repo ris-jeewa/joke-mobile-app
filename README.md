@@ -12,7 +12,7 @@ A Flutter application that fetches and displays programming jokes. The app suppo
 
 ## Screenshots
 
-<img src="/app_ss.png" alt="App Screenshot" width="200" />
+<img src="/app_ss.png" alt="App Screenshot" width="400" />
 
 ## Getting Started
 ### Prerequisites
