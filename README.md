@@ -12,17 +12,13 @@ A Flutter application that fetches and displays programming jokes. The app suppo
 
 ## Screenshots
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](/screenshot.png)
 
 ## Getting Started
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/joke_app.git
-   cd joke_app
 ### Prerequisites
 
 - [Flutter SDK](https://docs.flutter.dev/get-started/install)
 - Dart SDK (comes with Flutter)
 - A device/emulator to run the app
 
+Github Link : https://github.com/ris-jeewa/joke-mobile-app
